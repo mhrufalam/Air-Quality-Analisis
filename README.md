@@ -21,4 +21,9 @@ dir dashboard
 streamlit run dashboard.py
 ```
 
+## Menjalankan Dashboard melalui cloud dapat klik link dibawah
+```
+https://mahrufalam-air-quality-analysis.streamlit.app/
+```
+
 # Selamat Mencoba ✨✨
